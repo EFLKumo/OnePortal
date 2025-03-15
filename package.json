@@ -18,7 +18,7 @@
     "@fortawesome/react-fontawesome": "^0.2.0",
     "@headlessui/react": "^2.2.0",
     "awesome-debounce-promise": "^2.1.0",
-    "axios": "^1.7.9",
+    "axios": "^1.8.2",
     "crypto-js": "^4.2.0",
     "dayjs": "^1.11.7",
     "emoji-regex": "^10.2.1",
