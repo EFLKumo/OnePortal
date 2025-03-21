@@ -24,7 +24,7 @@
     "emoji-regex": "^10.2.1",
     "jszip": "^3.10.1",
     "mpegts.js": "^1.7.2",
-    "next": "~15.1.7",
+    "next": "~15.2.3",
     "nextjs-progressbar": "^0.0.16",
     "path-browserify": "^1.0.1",
     "plyr-react": "^5.1.2",
